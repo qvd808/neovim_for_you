@@ -25,6 +25,19 @@
 //
 //
 //
+void delete_function() {
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+	printf("This function was mean to be delete it");
+}
 //
 //
 //
@@ -169,7 +182,6 @@
 //
 //
 //
-
 int main() {
-	printf("Hello there!!");
+	printf("Hello there");
 }
