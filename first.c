@@ -183,5 +183,5 @@ void delete_function() {
 //
 //
 int main() {
-	printf("Hello there");
+	printf("Hello there!");
 }
